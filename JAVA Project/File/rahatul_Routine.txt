@@ -1,0 +1,11 @@
+===============================================
+Time : 8.00 am-9.00 am
+Sat : Java
+Sun : Java
+Mon : Java
+Tue : Java
+Wed : No class
+Thu : No class
+===============================================
+Wed : Java
+Thu : C#
